@@ -8,3 +8,4 @@ Please follow the following steps before cimpilng the code:
 * pip install pyquaternion
 * pip install spatialmath-python
 * pip install SciencePlots
+* #### Run main.py
